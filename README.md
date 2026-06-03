@@ -1,5 +1,5 @@
 # Land-Cover Classification Using Deep Learning and Transfer Learning
-Project Overview
+## Project Overview
 
 This project investigates the use of deep learning for land-cover classification using the EuroSAT satellite imagery dataset. The primary objective is to compare the performance of a Convolutional Neural Network (CNN) trained from scratch with a ResNet-50 transfer learning model. By evaluating both approaches, the project examines whether pretrained visual feature representations can improve classification accuracy for remote sensing imagery.
 
